@@ -29,7 +29,7 @@ Neon-Analog-Clock/
 
 1. Download or clone this repository.
 2. Open the project folder.
-3. Double-click `index.html` or use VS Code Live Server.
+3. Double-click `clock.html` or use VS Code Live Server.
 
 ## Author
 
